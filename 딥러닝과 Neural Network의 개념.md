@@ -14,7 +14,8 @@ Artificial을 생략하여 Neural Network라고만 하기도 한다.
     : NN에서 여러 layer가 연속된 후에 마지막 가설 단계에서 사용하는  
     activation function이다(마지막 단의 출력은 0에서 1 사이여야 하기 때문).
     > * Back Propagation  
-    : Chain rule(![image](https://user-images.githubusercontent.com/55045082/91537032-9a15d900-e950-11ea-8e82-7714977f748d.png))을 이용해 예측 값과 실제 값의 오류(cost)를 뒤에서 앞으로 전파하여 역으로 weight와 bias를 조절하는 것이다.  
+    : Chain rule(![image](https://user-images.githubusercontent.com/55045082/91537032-9a15d900-e950-11ea-8e82-7714977f748d.png))을 이용해 예측 값과 실제 값의 오류(cost)를 뒤에서 앞으로  
+    전파하여 역으로 weight와 bias를 조절하는 것이다.  
     이는 Sigmoid 함수를 이용하기 때문에 0에서 1 사이의 값을 출력하는 Sigmoid 함수의 특성에 의해  
     layer를 거듭할수록 최종 미분 값이 점점 0에 가까워져 입력이 결과에 미미한 영향을 미치는  
     Vanishing Gradient 문제를 초래할 수 있다.
