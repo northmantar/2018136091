@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/55045082/91532231-f96feb00-e948-11ea-9ae1-b919575fccb8.png)
 * Binary Classification(= Logistic Regression)  
 : label이 0 또는 1인 데이터가 어떤 label로 분류될지 예측하는 것이다.
-  * Logistic Hypothesis
+  * Logistic Hypothesis  
   : ![image](https://user-images.githubusercontent.com/55045082/91532557-74d19c80-e949-11ea-8249-297e0634d648.png)
 의 형태의 Linear Regression의 가설을 사용할 경우  
 0보다 작거나 1보다 큰 값이 나올 수 있으므로  
