@@ -9,4 +9,4 @@
 * 머신러닝 학습 오류 및 해결법 [[Click Here](https://github.com/northmantar/2018136091/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%A5%98%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)]
 * 딥러닝과 Neural Network의 개념 [[Click Here](https://github.com/northmantar/2018136091/blob/master/%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC%20Neural%20Network%EC%9D%98%20%EA%B0%9C%EB%85%90.md)]
 * Convolutional Neural Network(= CNN) [[Click Here](https://github.com/northmantar/2018136091/blob/master/Convolutional%20Neural%20Network(=%20CNN).md)]
-* Recurrent Neural Network(= RNN) [[Click Here]()]
+* Recurrent Neural Network(= RNN) [[Click Here](https://github.com/northmantar/2018136091/blob/master/Recurrent%20Neural%20Network(=%20RNN).md)]
