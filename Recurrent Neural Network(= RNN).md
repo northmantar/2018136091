@@ -9,4 +9,4 @@
   : 기본적인, 가장 단순한 형태의 RNN이다. 함수 ![image](https://user-images.githubusercontent.com/55045082/91539315-15c55500-e954-11ea-9786-12fdca13f7cc.png)로 ![image](https://user-images.githubusercontent.com/55045082/91539324-1827af00-e954-11ea-8e0c-615e2468b0a6.png)를 사용한다.  
   ![image](https://user-images.githubusercontent.com/55045082/91539334-1a8a0900-e954-11ea-9c10-a1d89fa6398f.png)  
   ![image](https://user-images.githubusercontent.com/55045082/91539337-1c53cc80-e954-11ea-86bb-c998cf392520.png)  
-+) 현재는 RNN 자체보다 LSTM(=Long Short Term Memory)이나 GRU를 사용한다.
++) 현재는 RNN 자체보다 LSTM(= Long Short Term Memory)이나 GRU를 사용한다.
