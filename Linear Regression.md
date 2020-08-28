@@ -4,8 +4,8 @@
 : label의 범위가 넓은 데이터가 어떤 label로 분류될지 예측하는 것이다.
  * Linear Hypothesis  
  : 선형적인(Linear) 데이터 모델이 training set에 적용될 것이라는 가설이다.  
-![image](https://user-images.githubusercontent.com/55045082/91530563-4a321480-e946-11ea-8c1b-f8520ae2f849.png)의 형태이며, 변수가 여러 개인 Multi-variable Linear Regression의 경우 변수를 행렬 X로, weight를 행렬 W로 하여  
-![image](https://user-images.githubusercontent.com/55045082/91530596-5918c700-e946-11ea-873b-b64b4be5f022.png)
+![image](https://user-images.githubusercontent.com/55045082/91530563-4a321480-e946-11ea-8c1b-f8520ae2f849.png)의 형태이며, 변수가 여러 개인 Multi-variable Linear Regression의 경우  
+변수를 행렬 X로, weight를 행렬 W로 하여 ![image](https://user-images.githubusercontent.com/55045082/91530596-5918c700-e946-11ea-873b-b64b4be5f022.png)
 와 같이 표현한다.  
 인스턴스가 여러 개인 경우에도 행렬을 이용해 표현한다(상수 ![image](https://user-images.githubusercontent.com/55045082/91530623-646bf280-e946-11ea-8170-cdf0658573a4.png)는 생략).
  * Cost function(=Loss function)  
