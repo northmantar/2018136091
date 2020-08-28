@@ -6,7 +6,7 @@
 * Linear Regression [[Click Here](https://github.com/northmantar/2018136091/blob/master/Linear%20Regression.md)]
 * Binary Classification(= Logistic Regression) [[Click Here](https://github.com/northmantar/2018136091/blob/master/Binary%20Classification(=%20Logistic%20Regression).md)]
 * Multinomial Classification(= Softmax Regression) [[Click Here](https://github.com/northmantar/2018136091/blob/master/Multinomial%20Classification(%3D%20Softmax%20Regression).md)]
-* 머신러닝 학습 오류 및 해결법 [[Click Here]()]
+* 머신러닝 학습 오류 및 해결법 [[Click Here](https://github.com/northmantar/2018136091/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%ED%95%99%EC%8A%B5%20%EC%98%A4%EB%A5%98%20%EB%B0%8F%20%ED%95%B4%EA%B2%B0%EB%B2%95.md)]
 * 딥러닝과 Neural Network의 개념 [[Click Here]()]
 * Convolutional Neural Network [[Click Here]()]
 * Recurrent Neural Network [[Click Here]()]
