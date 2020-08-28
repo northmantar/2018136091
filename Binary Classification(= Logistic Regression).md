@@ -3,7 +3,7 @@
 * Binary Classification(= Logistic Regression)  
 : label이 0 또는 1인 데이터가 어떤 label로 분류될지 예측하는 것이다.
   * Logistic Hypothesis  
-  : <img src="https://user-images.githubusercontent.com/55045082/91532557-74d19c80-e949-11ea-8249-297e0634d648.png" width="10%"></img>
+  : ![image](https://user-images.githubusercontent.com/55045082/91532557-74d19c80-e949-11ea-8249-297e0634d648.png)
 의 형태의 Linear Regression의 가설을 사용할 경우  
 0보다 작거나 1보다 큰 값이 나올 수 있으므로 Sigmoid 함수를 이용해 가설을 변형하여 사용한다.  
 이것을 통해 가설을 변형하면 ![image](https://user-images.githubusercontent.com/55045082/91533097-486a5000-e94a-11ea-86dd-bf1d12ce8168.png) 형태의 가설을 얻을 수 있다.
