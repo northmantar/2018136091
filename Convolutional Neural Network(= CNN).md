@@ -8,14 +8,14 @@ Fully Connected Network를 붙여 Softmax Classifier와 연결하여 labeling하
   * Convolutional Layer  
   : 이미지의 일부만 처리하여 값(점)을 뽑아내는 filter를 stride 크기만큼 움직여 전체 이미지를 훑는다.  
   output 이미지의 크기는 ![image](https://user-images.githubusercontent.com/55045082/91538459-d6e2cf80-e952-11ea-86ae-49096e622ce7.png)이다.  
-  (![image](https://user-images.githubusercontent.com/55045082/91538660-1b6e6b00-e953-11ea-91ed-19550c477715.png):input 이미지의 크기, ![image](https://user-images.githubusercontent.com/55045082/91538663-1dd0c500-e953-11ea-8ce0-a0b7cd68a003.png):필터의 크기)  
+  (N:input 이미지의 크기, F:필터의 크기)  
   이 layer를 통과하면 ![image](https://user-images.githubusercontent.com/55045082/91538731-39d46680-e953-11ea-8a92-16a5c6ab720f.png) 크기의 activation maps가 생긴다.  
   (![image](https://user-images.githubusercontent.com/55045082/91538633-114c6c80-e953-11ea-9998-6279e415d21b.png):output 이미지의 크기, ![image](https://user-images.githubusercontent.com/55045082/91538620-0b568b80-e953-11ea-8aae-1ecbdc4ed450.png):필터의 개수)
   * ReLU 함수  
   * Pooling Layer(= Sampling)  
   : 이미지를 sampling하는 layer이다.
-    * Max Pooling
+    * Max Pooling  
     : filter를 통해 이미지의 각 부분에서 가장 큰 값만을 추출해내는 것이다.
-  * Fully Connected Layer
+  * Fully Connected Layer  
   : 위의 세 종류의 레이어가 반복되어 만들어진 마지막 출력을 Softmax Classifier와 연결해  
   데이터를 labeling하도록 해준다.
