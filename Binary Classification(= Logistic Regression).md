@@ -10,7 +10,7 @@
     * Sigmoid function(= Logistic function)  
     : ![image](https://user-images.githubusercontent.com/55045082/91532654-8d41b700-e949-11ea-9a59-4e2876d4cb30.png)(![image](https://user-images.githubusercontent.com/55045082/91532666-916dd480-e949-11ea-9e81-db6d81dc791d.png)는 생략)라 하면, ![image](https://user-images.githubusercontent.com/55045082/91532674-9468c500-e949-11ea-85c0-a4a10ee0bb6f.png)값에 상관없이 0에서 1 사이의 값만  
     나올 수 있도록 하는 함수이다. ![image](https://user-images.githubusercontent.com/55045082/91532678-9763b580-e949-11ea-826d-2589234dc6d3.png)의 형태를 가진다. 
-  * Cost function(=Loss function)  
+  * Cost function(= Loss function)  
   : Linear Regression과 동일한 cost 함수를 쓰면 cost 함수의 모양이 매끄럽지 못한  
  볼록 함수 형태가 되므로 바꿔주어야 한다. ![image](https://user-images.githubusercontent.com/55045082/91533330-abf47d80-e94a-11ea-9bf5-8828f0acdd6a.png)라 하자.  
  ![image](https://user-images.githubusercontent.com/55045082/91533384-c4fd2e80-e94a-11ea-8827-ff140f62eb34.png)로, 두 ![image](https://user-images.githubusercontent.com/55045082/91533398-c7f81f00-e94a-11ea-965c-dff9bfb56719.png) 함수 그래프를 이용해 볼록 함수를 만든다.  
